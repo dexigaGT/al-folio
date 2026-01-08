@@ -19,7 +19,7 @@ lang: en
 icon: ⚛️ # You can change this to an image in assets/img/ later if you want
 
 # IMPORTANT: Change 'yourusername' to your actual GitHub username
-url: https://yourusername.github.io
+url: https://dexigagt.github.io
 baseurl: "" # Keep this empty for a main User site (username.github.io)
 last_updated: false
 impressum_path:
